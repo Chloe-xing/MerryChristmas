@@ -213,7 +213,7 @@ mainTl
       opacity: 0,
       ease: "rough({strength: 2, points: 100, template: linear, taper: both, randomize: true, clamp: false})",
     },
-    "-=0"
+    "-=0"  
   )
   .to(
     ".treeStarOutline",
